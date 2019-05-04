@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "mat.h": "c",
+        "stdio.h": "c"
+    },
+    "cSpell.words": [
+        "argumentsc",
+        "argumentsv",
+        "matr",
+        "mymat"
+    ]
+}
