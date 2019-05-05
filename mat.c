@@ -14,7 +14,7 @@ return 0, or an error code if there was any error.
 */
 int add_sub_mul_mat(char *argumentsv, char *cmdName) {
 	int i, j, k;
-	double *mat1, *mat2, *mat3;
+	double *mat1, *mat2, *mat3; 
 	mat tmp1, tmp2, tmp3;
 	double currentMultiplicationValue;
 	mat1 = parseArgToMat(argumentsv);

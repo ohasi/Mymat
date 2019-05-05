@@ -3,7 +3,7 @@
 
 #include <string.h>
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 #include <ctype.h>
 
 #define MAXSIZE 256					  /*Max string length*/

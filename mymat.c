@@ -242,7 +242,7 @@ double *parseArgToMat(char *argumentsv) {
 /*
 prepError: modifies argumentsv to signal there's an error and tell what it is
 sets argumentsv[0] to EOF and argumentsv[1] to err
-param argumentsv: the string in which to signal an error
+param argumentsv: the string in which to signal an error 
 param err: the error code
 */
 void prepError(int err, char *argumentsv){
